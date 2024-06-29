@@ -17,3 +17,6 @@ How to Use:
 
 Code Explanation:
 The script uses OpenCV for capturing webcam input and MediaPipe for detecting hand landmarks. It recognizes the Rock, Paper, and Scissors gestures based on the positions of the hand landmarks and compares them against the computer's random choice.
+
+tutorial that help me build this:
+https://www.youtube.com/watch?v=WYYFgCjgdKA
